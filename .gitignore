@@ -1,3 +1,7 @@
+#这样这些就不会存在github里
+bin/
+obj/
+
 # Logs
 logs
 *.log
